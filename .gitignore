@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Backup & temporary files
+*.bak
+*.tmp
+.ipynb_checkpoints/
+fake_news_detection_distilbert (1).ipynb*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
